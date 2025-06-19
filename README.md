@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kaustubh0707@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1glF1zxr0Nx9cEd0FbgceGkH3TJVmWJhx/view?usp=drive_link)
+- 📄 Know about my experiences [Portfolio]()
 
 - ⚡ Fun fact **I Love Fusion**
 
