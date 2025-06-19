@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Divekar</h1>
 <h3 align="center">Lifelong Computer Science Enthusiast | Forever Learning, Forever Iterating</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhdivekar&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhdivekar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhdivekar" alt="kaustubhdivekar" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
 
 - 🔭 I’m currently working on [to-let-globe](https://to-let-globe-rho.vercel.app/)
 
