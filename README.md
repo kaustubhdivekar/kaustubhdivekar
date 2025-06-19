@@ -14,11 +14,11 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I write articles on [https://kaustubhdivekar.hashnode.dev/](https://kaustubhdivekar.hashnode.dev/)
+- 📝 I write articles on [kaustubhdivekar@hashnode](https://kaustubhdivekar.hashnode.dev/)
 
 - 📫 How to reach me **kaustubh0707@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1glF1zxr0Nx9cEd0FbgceGkH3TJVmWJhx/view?usp=drive_link](https://drive.google.com/file/d/1glF1zxr0Nx9cEd0FbgceGkH3TJVmWJhx/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1glF1zxr0Nx9cEd0FbgceGkH3TJVmWJhx/view?usp=drive_link)
 
 - ⚡ Fun fact **I Love Fusion**
 
