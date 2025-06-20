@@ -10,11 +10,17 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header" alt="header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Namaste%2C+it's+Kaustubh+Divekar;Thinker%2C+Tinkerer;Typo+Hunter%2C+Bug+Zapper;AI+Whisperer%2C+Algorithm+Tamer)](https://git.io/typing-svg)
+<div align="center">
+   <h1><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmtqaGR0MHF1cWM4bzEyNGszZ3Eyemx0eDV6bHYxbDM3cnJ0dG81bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RMZWv7UqikFGIvv6m4/giphy.gif" width="100px"> Namaste, it's <a href="https://github.com/kaustubhdivekar">Kaustubh</a>  </h1>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Thinker%2C+Tinkerer;Typo+Hunter%2C+Bug+Zapper;AI+Whisperer%2C+Algorithm+Tamer)](https://git.io/typing-svg)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h3 align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; I love building things, breaking things (...gently), and figuring out how to do both better tomorrow.</h3>
+<h2 align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; I love building things, breaking things (...gently), and figuring out how to do both better tomorrow.</h2>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" alt="nnn00" width="480"/>
@@ -287,6 +293,14 @@
 <br />
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<br />
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
 <!-- Visitor Counter -->
 <br />
 
@@ -302,7 +316,6 @@
 <summary align ="center">Console.log(‘Warning: Silly Ahead’) 🤙 </summary>
     <br />
 <div align="center">
-        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
         <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
 </div>
 </details>
