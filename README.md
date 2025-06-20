@@ -311,17 +311,11 @@
 
 <br />
 
-<h2 align ="center">Joke of the day</h2>
+<h2 align ="center">Console.log(‘Warning: Silly Ahead’) </h2>
 <div align="center">
         <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
         <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
-        <img src="https://github-cards.onrender.com/jokes-card" alt="Jokes Card" />
-        <img src="https://readme-jokes-rouge.vercel.app/api" alt="Kafka’s Quote & Jokes" />
 </div>
-
-</br>
-
-<br />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" alt="footer"/>
 
