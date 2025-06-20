@@ -8,15 +8,16 @@
 -->
 <!-- [![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)]() -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a358e8&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header" alt="header"/> 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1 align="center"><b>Namaste, I'm </b><a href="https://github.com/kaustubhdivekar">KAUSTUBH DIVEKAR</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFFF&center=false&vCenter=true&width=700&height=100&lines=Namaste%2C+it's+Kaustubh+Divekar;Thinker%2C+Tinkerer;Typo+Hunter%2C+Bug+Zapper)](https://git.io/typing-svg)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; Thinker. Tinkerer. Typo-hunter. I love building things, breaking things (...gently), and figuring out how to do both better tomorrow.</h3>
+<h3 align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; I love building things, breaking things (...gently), and figuring out how to do both better tomorrow.</h3>
 
 
 <br />
@@ -44,7 +45,7 @@
 
 <br />
 
-<!-- Social Links -->
+<!-- Fast links to my socials! -->
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
   <a href="mailto:kaustubh0707@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
@@ -56,6 +57,7 @@
 
 <br />
 
+<!-- This is the list of my skills and tools I am studying! -->
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; **Languages and Tools**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -117,6 +119,13 @@
 </p>
 
 <br />
+<!-- Oh, hello there, recruiters! -->
+
+### Employer?
+> [!IMPORTANT]  
+> Download my <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>resume</a>
+
+<br />
 
 <!-- Visitor Counter -->
 <br />
@@ -133,4 +142,6 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a358e8&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" alt="footer"/>
+
+<!-- Thanks for being my guest -->
