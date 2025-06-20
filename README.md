@@ -16,7 +16,6 @@
 
 <h3 align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; I love building things, breaking things (...gently), and figuring out how to do both better tomorrow.</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Fast links to my socials! -->
 <h1 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> Connect with me</h1>
@@ -300,12 +299,14 @@
 
 <br />
 
-<h2 align ="center">Console.log(‘Warning: Silly Ahead’) </h2>
+<h2 align ="center">Console.log(‘Warning: Silly Ahead’) 🤙 </h2>
 <div align="center">
         <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
         <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" alt="footer"/>
+
+<p align=center> <sub> Created with 🫀 and 🧠 by Kaustubh Divekar &nbsp;&nbsp;&nbsp; ©2024 </sub> </p>
 
 <!-- Thanks for being my guest -->
