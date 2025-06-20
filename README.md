@@ -12,12 +12,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Namaste%2C+it's+Kaustubh+Divekar;Thinker%2C+Tinkerer;Typo+Hunter%2C+Bug+Zapper;AI+Whisperer%2C+Algorithm+Tamer)](https://git.io/typing-svg)
 
-✧ AI Whisperer
-✧ Algorithm Tamer
-✧ Digital Reinforcer
-✧ Stack Constructor
-✧ Puzzle Master
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h3 align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; I love building things, breaking things (...gently), and figuring out how to do both better tomorrow.</h3>
