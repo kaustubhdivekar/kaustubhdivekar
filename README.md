@@ -6,23 +6,31 @@
     But may I please ask you to follow me in return? Just a click!
     You may also want to connect with me on LinkedIn @kaustubhdivekar :))
 -->
+<!-- [![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)]() -->
 
-[![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)]()
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a358e8&height=120&section=header" alt="header"/> 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1 align="center"><b>Namaste, I'm </b><a href="https://github.com/kaustubhdivekar">KAUSTUBH DIVEKAR</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h3 align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; Thinker. Tinkerer. Typo-hunter. I love building things, breaking things (...gently), and figuring out how to do both better tomorrow.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
+
+<br />
 
 - 🔭 I’m currently working on [Portfolio]()
+- 
 - 🌱 I’m currently learning **Web App Development**
+- 
 - 👯 I’m looking to collaborate on **Open Source Projects**
+- 
 - ✔ Feel free to 📫 Reach out to me at: **kaustubh0707@gmail.com**
+- 
 - 📄 Know about my experiences [Portfolio]()
+- 
 - ⚡ Fun fact **I Love Fusion**
 
 <br />
@@ -124,3 +132,5 @@
 <br />
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a358e8&height=120&section=footer" alt="footer"/>
