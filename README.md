@@ -6,7 +6,7 @@
     But may I please ask you to follow me in return? Just a click!
     You may also want to connect with me on LinkedIn @kaustubhdivekar :))
 -->
-<!-- [![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)]() -->
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header" alt="header"/> 
 
