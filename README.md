@@ -208,7 +208,7 @@
 <br>
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=kaustubhdivekar&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=kaustubhdivekar&theme=tokyonight-duo&hide_border=true&border_radius=4" alt="GitHub Streak" />
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubhdivekar&custom_title=Kaustubh's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
