@@ -208,7 +208,7 @@
 <br>
 <div align="center">
  
-  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=kaustubhdivekar&theme=tokyonight-duo&hide_border=true&border_radius=4" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=kaustubhdivekar&theme=highcontrast&hide_border=true&border_radius=4" alt="GitHub Streak" />
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubhdivekar&custom_title=Kaustubh's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
@@ -237,19 +237,17 @@
     <img src="https://ghchart.rshah.org/kaustubhdivekar" alt="Kaustubh's GitHub Contribution Chart">
 </a>
 
-
+<br>
+<br>
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <img src="https://myreadme.vercel.app/api/embed/kaustubhdivekar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Kaustubh's GitHub Stats">
+  </summary> 
+    <br>
       <img src="https://github-readme-bento.vercel.app/stats/kaustubhdivekar?theme=dark" alt="Kaustubh's GitHub Stats">
       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=kaustubhdivekar" alt="Advanced GitHub Stats for Kaustubh" width="400">
 
-
 </details>
-
 
 <br>
 
