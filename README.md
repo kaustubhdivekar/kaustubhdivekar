@@ -18,17 +18,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br />
-
-- 🔭 I’m currently working on [Portfolio]()
-- 🌱 I’m currently learning **Web App Development**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- ✔ Feel free to 📫 Reach out to me at: **kaustubh0707@gmail.com**
-- 📄 Know about my experiences [Portfolio]()
-- ⚡ Fun fact **I Love Fusion**
-
-<br />
-
 <!-- Fast links to my socials! -->
 <h1 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> Connect with me</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
