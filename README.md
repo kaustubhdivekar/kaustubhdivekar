@@ -21,22 +21,18 @@
 <br />
 
 - 🔭 I’m currently working on [Portfolio]()
-
 - 🌱 I’m currently learning **Web App Development**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
 - ✔ Feel free to 📫 Reach out to me at: **kaustubh0707@gmail.com**
-
 - 📄 Know about my experiences [Portfolio]()
-- 
 - ⚡ Fun fact **I Love Fusion**
 
 <br />
 
 <!-- Fast links to my socials! -->
-<h1 align="center"> Connect with me:</h1>
+<h1 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> Connect with me</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <a href="mailto:kaustubh0707@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/kaustubhdivekar/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
@@ -207,7 +203,7 @@
       </td>
       <td align="center" style="border: none;">
 <!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="50" height="50" /><br>Google Gemini
       </td>
       <td align="center" style="border: none;">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
@@ -314,6 +310,13 @@
 </div>
 
 <br />
+
+<h2 align ="center">Joke of the day</h2>
+<div align="center">
+        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
+</div>
+
+</br>
 
 <br />
 
