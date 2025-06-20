@@ -314,6 +314,9 @@
 <h2 align ="center">Joke of the day</h2>
 <div align="center">
         <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
+        <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
+        <img src="https://github-cards.onrender.com/jokes-card" alt="Jokes Card" />
+        <img src="https://readme-jokes-rouge.vercel.app/api" alt="Kafka’s Quote & Jokes" />
 </div>
 
 </br>
