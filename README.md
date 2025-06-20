@@ -21,13 +21,13 @@
 <br />
 
 - 🔭 I’m currently working on [Portfolio]()
-- 
+
 - 🌱 I’m currently learning **Web App Development**
-- 
+
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 
+
 - ✔ Feel free to 📫 Reach out to me at: **kaustubh0707@gmail.com**
-- 
+
 - 📄 Know about my experiences [Portfolio]()
 - 
 - ⚡ Fun fact **I Love Fusion**
@@ -36,6 +36,7 @@
 
 <!-- Fast links to my socials! -->
 <h1 align="center"> Connect with me:</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <a href="mailto:kaustubh0707@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/kaustubhdivekar/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
@@ -90,8 +91,10 @@
 <br>
 
 <!-- Github Stats -->
-<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;Github Stats</h1>
+
+<h1 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height="50px"> Github Stats</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
 <div align="center">
  
