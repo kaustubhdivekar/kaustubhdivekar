@@ -290,7 +290,7 @@
 <br />
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://komarev.com/ghpvc/?username=kaustubhdivekar&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+    <img src="https://komarev.com/ghpvc/?username=kaustubhdivekar&color=blueviolet&style=flat-square&label=Views" alt="Profile Views" width="125" height="35">
 </p>
 </div>
 
