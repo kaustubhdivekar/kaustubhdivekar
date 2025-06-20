@@ -34,17 +34,8 @@
 
 <br />
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=kaustubhdivekar&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>  
-
-<br />
-
 <!-- Fast links to my socials! -->
-<h3 align="center"> Connect with me:</h3>
+<h1 align="center"> Connect with me:</h1>
 <div align="center">
   <a href="mailto:kaustubh0707@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/kaustubhdivekar/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
@@ -56,7 +47,7 @@
 <br />
 
 <!-- This is the list of my skills and tools I am studying! -->
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; **Languages and Tools**
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Languages and Tools</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###### Languages & Syntax:
@@ -99,7 +90,7 @@
 <br>
 
 <!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;**Github Stats**
+<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;Github Stats</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <div align="center">
@@ -124,8 +115,57 @@
 </table>
 
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=kaustubhdivekar&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kaustubh's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaustubhdivekar&theme=highcontrast&hide_border=true">
+
+### GitHub Contribution Chart
+<a href="https://github.com/kaustubhdivekar">
+    <img src="https://ghchart.rshah.org/kaustubhdivekar" alt="Kaustubh's GitHub Contribution Chart">
+</a>
+
+
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
+  </summary>
+  
+  <img src="https://myreadme.vercel.app/api/embed/kaustubhdivekar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Kaustubh's GitHub Stats">
+      <img src="https://github-readme-bento.vercel.app/stats/kaustubhdivekar?theme=dark" alt="Kaustubh's GitHub Stats">
+      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=kaustubhdivekar" alt="Advanced GitHub Stats for Kaustubh" width="400">
+
+
+</details>
+
+
+<br>
+
+<details>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for Kaustubh&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+
+  <h2>Star History Chart</h2>
+  <a href="https://star-history.com/#kaustubhdivekar/kaustubhdivekar&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kaustubhdivekar/kaustubhdivekar&type=Date&theme=dark" />
+  </a>
+
+</details>
+
+
+<br>
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
+  <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=kaustubhdivekar&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+  <img src="https://stats.dooboo.io/api/github-trophies?login=kaustubhdivekar" alt="GitHub Trophies for KenanGain">
+</details>
+
+
+
 </div>
+
+<br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <br />
 <!-- Oh, hello there, recruiters! -->
 
