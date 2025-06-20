@@ -10,7 +10,13 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header" alt="header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Namaste%2C+it's+Kaustubh+Divekar;Thinker%2C+Tinkerer;Typo+Hunter%2C+Bug+Zapper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Namaste%2C+it's+Kaustubh+Divekar;Thinker%2C+Tinkerer;Typo+Hunter%2C+Bug+Zapper;AI+Whisperer%2C+Algorithm+Tamer)](https://git.io/typing-svg)
+
+✧ AI Whisperer
+✧ Algorithm Tamer
+✧ Digital Reinforcer
+✧ Stack Constructor
+✧ Puzzle Master
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
