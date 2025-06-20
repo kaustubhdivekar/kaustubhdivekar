@@ -10,7 +10,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header" alt="header"/> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFFF&center=false&vCenter=true&width=700&height=100&lines=Namaste%2C+it's+Kaustubh+Divekar;Thinker%2C+Tinkerer;Typo+Hunter%2C+Bug+Zapper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Namaste%2C+it's+Kaustubh+Divekar;Thinker%2C+Tinkerer;Typo+Hunter%2C+Bug+Zapper)](https://git.io/typing-svg)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -280,29 +280,34 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <br />
-<!-- Oh, hello there, recruiters! -->
 
-### Employer?
+<!-- Oh, hello there, recruiters! -->
+# Employer ?
 > [!IMPORTANT]  
-> Download my <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>resume</a>
+> Have my <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>resume</a>
 
 <br />
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <!-- Visitor Counter -->
 <br />
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://komarev.com/ghpvc/?username=kaustubhdivekar&color=blueviolet&style=flat-square&label=Views" alt="Profile Views" width="125" height="35">
+    <br><p align="centre"><b>Views</b></p>  
+    <img align="center" src="https://profile-counter.glitch.me/{kaustubhdivekar}/count.svg" />
 </p>
 </div>
 
 <br />
 
-<h2 align ="center">Console.log(‘Warning: Silly Ahead’) 🤙 </h2>
+<details>
+<summary align ="center">Console.log(‘Warning: Silly Ahead’) 🤙 </summary>
+    <br />
 <div align="center">
         <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
         <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
 </div>
+</details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" alt="footer"/>
 
