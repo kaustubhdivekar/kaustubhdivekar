@@ -11,7 +11,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header" alt="header"/> 
 
 <div align="center">
-   <h1><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmtqaGR0MHF1cWM4bzEyNGszZ3Eyemx0eDV6bHYxbDM3cnJ0dG81bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RMZWv7UqikFGIvv6m4/giphy.gif" width="100px"> Namaste, it's <a href="https://github.com/kaustubhdivekar">Kaustubh</a>  </h1>
+   <h1> Namaste, it's <a href="https://github.com/kaustubhdivekar">Kaustubh</a>  </h1>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Thinker%2C+Tinkerer;Typo+Hunter%2C+Bug+Zapper;AI+Whisperer%2C+Algorithm+Tamer)](https://git.io/typing-svg)
@@ -322,6 +322,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" alt="footer"/>
 
-<p align=center> <sub> Created with 🫀 and 🧠 by Kaustubh Divekar &nbsp;&nbsp;&nbsp; ©2024 </sub> </p>
+<p align=center> <sub> Created with 🫀 and 🧠 by Kaustubh Divekar &nbsp;&nbsp;&nbsp; ©2025 </sub> </p>
 
 <!-- Thanks for being my guest -->
