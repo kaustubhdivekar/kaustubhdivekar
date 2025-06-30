@@ -288,7 +288,7 @@
 <!-- Oh, hello there, recruiters! -->
 # Employer ?
 > [!IMPORTANT]  
-> Have my <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>resume</a>
+> Have my <a href="https://drive.google.com/file/d/1glF1zxr0Nx9cEd0FbgceGkH3TJVmWJhx/view?usp=drive_link" download>resume</a>
 
 <br />
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
